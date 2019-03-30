@@ -21,6 +21,6 @@ var routes = require('./controllers/routes.js');
 app.use('/', routes);
 
 
-var port = 8080
+var PORT = process.env.PORT || 8080
 
-app.listen(port)
+app.listen(PORT)
