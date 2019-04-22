@@ -1,3 +1,6 @@
 body {
-background-color: green
+background-color: green;
+background-image: url("hamburger.jpg");
+background-size: auto;
+background-size: 100%;
 }
