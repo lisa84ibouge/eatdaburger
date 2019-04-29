@@ -9,3 +9,5 @@ To use this application, first go to the webpage. Then type in the name of the a
 
 https://lisasburgerapp.herokuapp.com/
 
+This project was developed to practice and demonstrate the use of JavaScript, CSS, dynamic HTML, Node, Express Handlebars, MySQL and Heroku for the University of Washington Coding Bootcamp in 2019.
+
